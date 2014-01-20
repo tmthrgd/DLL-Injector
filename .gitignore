@@ -1,0 +1,7 @@
+.DS_STORE
+ipch/
+obj/
+/Com.Xenthrax.DllInjector.sdf
+/Com.Xenthrax.DllInjector.suo
+*.Log.txt
+*~
